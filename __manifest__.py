@@ -18,6 +18,7 @@
         'views/female_patient_view.xml',
         'views/res_config_settings_views.xml',
         'reports/patient_card.xml',
+        'reports/sale_report_inherit.xml',
         'reports/report.xml'
         ],
     'demo': [],
