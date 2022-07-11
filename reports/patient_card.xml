@@ -10,11 +10,11 @@
                         <table class="table table-bordered mt32">
                             <thead>
                                 <tr>
-                                    <th class="text-center"><span>Name</span></th>
-                                    <th class="text-center"><span>Date of birth</span></th>
+                                    <th class="text-center"><span>Nom</span></th>
+                                    <th class="text-center"><span>Date de Naissance</span></th>
                                     <th class="text-center"><span>Age</span></th>
-                                    <th class="text-center"><span>Appointment Count</span></th>
-                                    <th class="text-center"><span>Gender</span></th>
+                                    <th class="text-center"><span>Nombre de rendez-vous</span></th>
+                                    <th class="text-center"><span>Genre</span></th>
                                 </tr>
                             </thead>
                             <tbody>
